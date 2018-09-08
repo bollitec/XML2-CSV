@@ -8,18 +8,11 @@ Jörg
 
 
 Example:
-&lt;toplevel&gt;
-  &lt;sublevel1&gt;
-    &lt;value&gt;ABC&lt;/value&gt;
-  &lt;/sublevel1&gt;
-  &lt;sublevel2&gt;
-    &lt;value&gt;DEF&lt;/value&gt;
-  &lt;/sublevel2&gt;
-&lt;/toplevel&gt;
+&lt;toplevel&gt;&lt;sublevel1&gt;&lt;value&gt;ABC&lt;/value&gt;&lt;/sublevel1&gt;&lt;sublevel2&gt;&lt;value&gt;DEF&lt;/value&gt;&lt;/sublevel2&gt;&lt;/toplevel&gt;
 
 will be transferred to
 
-toplevel.sublevel1.value  toplevel.subleve2.value
-ABC                       DEF
+toplevel.sublevel1.value = ABC
+toplevel.subleve2.value = DEF
 
 ;-)
