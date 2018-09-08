@@ -8,14 +8,14 @@ Jörg
 
 
 Example:
-<toplevel>
-  <sublevel1>
-    <value>ABC</value>
-  </sublevel1>
-  <sublevel2>
-    <value>DEF</value>
-  </sublevel2>
-</toplevel>
+&lt;toplevel&gt;
+  &lt;sublevel1&gt;
+    &lt;value&gt;ABC&lt;/value&gt;
+  &lt;/sublevel1&gt;
+  &lt;sublevel2&gt;
+    &lt;value&gt;DEF&lt;/value&gt;
+  &lt;/sublevel2&gt;
+&lt;/toplevel&gt;
 
 will be transferred to
 
